@@ -1,11 +1,7 @@
-# Magpie_DocClassifier 
-An alternative method for document chunking and tagging, utilising rule-based algorithms and machine learning for structured content analysis
-
-
 # Magpie_DocClassifier
 
 ## Project Overview
-The `Magpie_DocClassifier` is a specialized tool designed for effective document processing across multiple formats including Excel, PDF, DOCX, and PPTX. Unlike traditional document classifiers such as the `GPT-DocClassifier`, `Magpie_DocClassifier` employs a combination of rule-based and AI-driven approaches to optimize document chunking and tagging, ensuring high accuracy and context-sensitive classification.
+The `Magpie_DocClassifier` is a specialised tool designed for effective document processing across multiple formats including Excel, PDF, DOCX, and PPTX. Unlike traditional document classifiers such as the `GPT-DocClassifier`, `Magpie_DocClassifier` employs a combination of rule-based and AI-driven approaches to optimise document chunking and tagging, ensuring high accuracy and context-sensitive classification. 
 
 ## Key Features
 
