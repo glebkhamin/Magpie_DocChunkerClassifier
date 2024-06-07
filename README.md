@@ -34,7 +34,7 @@ This command installs dependencies such as `numpy`, `pandas`, and any AI or ML l
 ### Document Chunking
 
 #### Prepare Your Documents:
-- Organise your documents in the appropriate directories. For example, PDFs should be placed in a `pdf_docs` directory, and Excel files in an `excel_docs` directory.
+- Organise your documents in the appropriate directories - all documents must be placed in the `First batch of materials from Discy` directory.
 
 #### Run the Chunking Script:
 - Execute the `doc_decoder_oo.py` script to start the chunking process. You can do this by navigating to the directory containing the script and running:
