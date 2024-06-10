@@ -1,0 +1,22 @@
+I will provide a CHUNK OF TEXT and a list of CLASSES.
+Which {{max_num_classifications}} classes are relevant to the CHUNK OF TEXT?
+For each relevant class, explain in a few words why it is a relevant class.
+Return the output in the form:
+
+{
+  "classes": [
+    {
+      "class": "class1",
+      "reason": "reason1"
+    },
+    {
+      "class": "class2",
+      "reason": "reason2"
+    },
+    ...
+  ]
+}
+
+Here is your input data:
+CHUNK OF TEXT: {{chunk_string}}
+CLASSES: {{classes_list_of_strings}}
